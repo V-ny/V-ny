@@ -4,8 +4,7 @@
 
 Estudante de Licenciatura em Computação na região Sul Fluminese. Tenho
  um bom conhecimento em certas linguagens de programação e na
- manutenção de computadores e redes. Pretendo demonstrar toda a minha
- competência e comprometimento à minha equipe.
+ manutenção de computadores e redes.
 
 
 ---
